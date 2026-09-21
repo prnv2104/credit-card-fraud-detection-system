@@ -155,7 +155,7 @@ The repository contains screenshots demonstrating:
 
 ---
 
-## Resume Highlights
+## Highlights
 
 - Designed and implemented a normalized relational database with 10+ tables.
 - Developed SQL Views, Stored Procedures, and Triggers to automate business workflows.
